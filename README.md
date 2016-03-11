@@ -13,10 +13,10 @@ I've included relevant GIS files and formats produced from the [United States Ce
 - [geojson](https://github.com/darrenjaworski/ok-primary-results/blob/master/ok-counties-geo.json)
 - [topojson](https://github.com/darrenjaworski/ok-primary-results/blob/master/ok-counties-topo.json)
 - [kml](https://github.com/darrenjaworski/ok-primary-results/blob/master/ok-counties-kml.json)
-- ESRI shapefile
+- [ESRI shapefile](https://github.com/darrenjaworski/ok-primary-results/tree/master/county_shp)
 
 ### voter precinct geography files
 - [geojson](https://github.com/darrenjaworski/ok-primary-results/blob/master/ok-precincts-geo.json)
 - [topojson](https://github.com/darrenjaworski/ok-primary-results/blob/master/ok-precincts-topo.json)
 - [kml](https://github.com/darrenjaworski/ok-primary-results/blob/master/ok-precincts-kml.json)
-- ESRI shapefile
+- [ESRI shapefile](https://github.com/darrenjaworski/ok-primary-results/tree/master/precinct_shp)
